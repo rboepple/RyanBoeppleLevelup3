@@ -1,5 +1,9 @@
 // version and contentToCache are supplied by IDEController.py during deploy
+<<<<<<< Updated upstream
 const cacheName = 'app-2019-09-29 19:31:52.528915'; // unique value, generated each deploy
+=======
+const cacheName = 'app-2019-09-29 20:00:02.715237'; // unique value, generated each deploy
+>>>>>>> Stashed changes
 const contentToCache = [
   'index.html',
   'code.js',
